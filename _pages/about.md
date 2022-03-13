@@ -17,7 +17,7 @@ Education
 * Ph.D in Integrated Design Engineering (Major: Electronics and Electrical Engineering) (Sept. 2021 - present)
   * Keio University
   * Supervisor: Prof. Masahiro Yukawa
-* M.S. in Integrated Design Engineering (Major: Electronics and Electrical Engineering) (Apr. 2020 - Sept. 2021)
+* M.E. in Integrated Design Engineering (Major: Electronics and Electrical Engineering) (Apr. 2020 - Sept. 2021)
   * Keio University
   * Supervisor: Prof. Masahiro Yukawa
   * GPA 4.00/4.00
@@ -29,7 +29,7 @@ Education
 Awards
 =====
 * Best Undergraduate Research Award (Mar. 2020)
-  * The best undergraduate research award in the field of information technology in Dept. EEE, Keio Univ.
+  * The best undergraduate research award in the field of information technology in Dept. Electronics and Electrical Engineering, Keio Univ.
 
 Employment
 =====
