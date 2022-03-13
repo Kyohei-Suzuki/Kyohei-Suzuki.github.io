@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyohei Suzuki"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D Student at Keio University"
   location         : "Kanagawa, Japan"
   employer         :
