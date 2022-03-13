@@ -19,10 +19,10 @@ author_profile: true
 
 
 # Articles in Journals
-* [Kyohei Suzuki and Masahiro Yukawa, “Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function,” in IEEE Transactions on Signal Processing, vol. 69, pp. 669‒681, 2021.](https://ieeexplore.ieee.org/document/9296314)
+* [Kyohei Suzuki and Masahiro Yukawa, "Robust recovery of jointly-sparse signals using minimax concave loss function," IEEE Trans. Signal Processing, vol.69, pp.669--681, 2021. (Article DOI: 10.1109/TSP.2020.3044445) (Publication: December 2020).](https://ieeexplore.ieee.org/document/9296314)
 
 # Peer-Reviewed Articles in Conference Proceedings
-* Kyohei Suzuki and Masahiro Yukawa,“Robust Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function,” in Proc. 28th European Signal Processing Conference (EUSIPCO), Amsterdam, Netherlands, Jan. 2021, pp. 2070‒2074.
+* [Kyohei Suzuki and Masahiro Yukawa, “Robust jointly-sparse signal recovery based on minimax concave loss function," in Proceedings of EUSIPCO (European Signal Processing Conference), pp.2070--2074, January 2021.](https://ieeexplore.ieee.org/document/9287635)
 
 # Non-Peer-Reviewed Articles in Conference Proceedings
 * Kyohei Suzuki and Masahiro Yukawa, "Sparse Stable Outlier-Robust Regression Using Minimax Concave Function," in Proceedings of IEICE SIP Symposium, pp.96-101, Zoom (fully virtual), Nov. 2021.
