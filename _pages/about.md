@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,6 @@ redirect_from:
 About me
 ======
 I am currently a Ph.D student at Keio University, and a JSPS research fellow (DC1). My research interests focus on robust signal processing and sparse modeling.
-
-Publications
-======
 
 Education
 ======
