@@ -36,3 +36,7 @@ Employment
 * JSPS Research fellow DC1 (Apr. 2022 - present)
 * Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
 * Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
+
+<div class="page__footer-follow">
+Last update: Mar, 2022
+</div>
