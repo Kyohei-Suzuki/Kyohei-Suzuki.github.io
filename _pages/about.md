@@ -8,9 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-About me
+<!-- About me
 ======
-I am currently a Ph.D. student at Keio University. My research interests focus on robust signal processing and sparse modeling.
+Ph.D. student in Department of Electronics and Electrical Engineering, Keio University, Japan.  -->
+
+
+Research Interests
+======
+  - Learning in the presence of outliers
+  - Sparse signal recovery
+  - Manifold learning
+
 
 Education
 ======
@@ -37,6 +45,12 @@ Employment
 * Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
 * Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
 
+
+
+
+
+
+
 <div class="footer">
-Last update: Mar, 2022
+Last update: Mar, 2023
 </div>
