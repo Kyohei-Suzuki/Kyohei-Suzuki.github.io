@@ -19,7 +19,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ## Articles in Journals
-* [<b>Kyohei Suzuki</b> and Masahiro Yukawa, "Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise," IEEE Trans. Signal Processing, vol.71, pp.372--387, 2023, doi: 10.1109/TSP.2023.3244082.](https://ieeexplore.ieee.org/document/10041941)
+* [Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941) 
+  - <span style="font-size:50%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span>
+  - <span style="font-size:50%">IEEE Trans. Signal Processing, vol.71, pp.372--387, 2023, doi: 10.1109/TSP.2023.3244082</span>
 
 * [<b>Kyohei Suzuki</b> and Masahiro Yukawa, "Robust recovery of jointly-sparse signals using minimax concave loss function," IEEE Trans. Signal Processing, vol.69, pp.669--681, 2021, doi: 10.1109/TSP.2020.3044445 (Publication: December 2020).](https://ieeexplore.ieee.org/document/9296314)
 
