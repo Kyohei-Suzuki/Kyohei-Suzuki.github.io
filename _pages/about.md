@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 <!-- About me
-======
+---
 Ph.D. student in Department of Electronics and Electrical Engineering, Keio University, Japan.  -->
 
 
-Research Interests
-======
+## Research Interests
+---
   - Learning in the presence of outliers
   - Sparse signal recovery
   - Manifold learning
 
 
-Education
-======
+## Education
+---
 * Ph.D. in Integrated Design Engineering (Major: Electronics and Electrical Engineering) (Sept. 2021 - present)
   * Keio University
   * Supervisor: Prof. Masahiro Yukawa
@@ -34,13 +34,14 @@ Education
   * Supervisor: Prof. Masahiro Yukawa
 
 
-Awards
-=====
+## Awards
+---
 * Best Undergraduate Research Award (Mar. 2020)
   * The best undergraduate research award in Dept. Electronics and Electrical Engineering, Keio Univ.
 
-Employment
-=====
+
+## Employment
+---
 * JSPS Research fellow DC1 (Apr. 2022 - present)
 * Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
 * Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
