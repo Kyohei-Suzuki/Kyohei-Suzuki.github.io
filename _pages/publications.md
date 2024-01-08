@@ -18,7 +18,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ziuCr6QAAAAJ&hl=en&oi=ao).
 
 
-## Journal　articles
+## Journal articles
 - [Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941) <br>
     <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
     <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp.372--387, 2023</span> <br>
