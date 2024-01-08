@@ -40,7 +40,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Peer-Reviewed Conference Proceedings
 - [Robust jointly-sparse signal recovery based on minimax concave loss function](https://ieeexplore.ieee.org/document/9287635) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">Proc. EUSIPCO (European Signal Processing Conference), pp.2070--2074, January 2021</span> <br> </summary>
+  <span style="font-size:75%">Proc. EUSIPCO (European Signal Processing Conference), pp.2070--2074, January 2021</span> <br>
 
   <details>
     <summary>Abstract</summary>
@@ -50,7 +50,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Non-Peer-Reviewed Articles
 * Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">Proc. IEICE SIP Symposium, pp.1--16, Nov. 2023</span> <br>
+  <span style="font-size:75%">Proc. IEICE SIP Symposium, pp.1--6, Nov. 2023</span> <br>
 * Multiscale Manifold Clustering and Embedding with Multiple Kernels <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">Proc. Technical Report of IEICE, pp.276--281, Okinawa, Mar. 2023</span> <br>
