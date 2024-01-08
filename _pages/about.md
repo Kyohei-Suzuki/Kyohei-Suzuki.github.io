@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,8 +15,9 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 # Research Interests
 ---
-  - Learning in the presence of outliers
   - Sparse signal recovery
+  - Learning in the presence of outliers
+  - Convex optimization
   - Manifold learning
 
 
@@ -36,6 +37,8 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 # Awards
 ---
+* 信号処理若手奨励賞 (Nov. 2023)
+* 信号処理研究会賞 (Aug. 2023)
 * Best Undergraduate Research Award (Mar. 2020)
   * The best undergraduate research award in Dept. Electronics and Electrical Engineering, Keio Univ.
 
