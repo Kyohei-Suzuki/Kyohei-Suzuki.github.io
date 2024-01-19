@@ -21,7 +21,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Journal articles
 - [Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941) <br>
     <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-    <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp.372--387, 2023</span> <br>
+    <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp. 372--387, 2023</span> <br>
   <details>
     <summary>Abstract</summary>
 
@@ -30,7 +30,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [Robust recovery of jointly-sparse signals using minimax concave loss function](https://ieeexplore.ieee.org/document/9296314) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">IEEE Trans. Signal Processing, vol.69, pp.669--681, 2021 (Publication: December 2020)</span> <br>
+  <span style="font-size:75%">IEEE Trans. Signal Processing, vol.69, pp. 669--681, 2021 (Publication: December 2020)</span> <br>
 
   <details>
     <summary>Abstract</summary>
@@ -38,9 +38,33 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   </details>
 
 ## Peer-Reviewed Conference Proceedings
+- [Sparse Stable Outlier-Robust Regression with Minimax Concave Function](https://ieeexplore.ieee.org/abstract/document/9943378) <br>
+  <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
+  <span style="font-size:75%">Proc. International Workshop on Machine Learning for Signal Processing (MLSP), pp. 1--6, August 2022</span> <br>
+
+  <details>
+    <summary>Abstract</summary>
+  We propose a novel formulation for stable sparse recovery from measurements contaminated by outliers and severe noise. The proposed formulation evaluates noise and outliers with a quadratic function and the minimax concave function, respectively, to reflect their statistical properties (Gaussianity and sparsity). This makes a significant difference from the conventional robust methods, which typically evaluate noise and outliers with a single loss function, leading to stability of the estimate. While the proposed formulation involves a nonconvex penalty to reduce estimation biases of sparse estimates, overall convexity of the whole cost is guaranteed under a certain condition by adding the Tikhonov regularization term. The problem is solved via a reformulation by the forward-backward primal-dual splitting algorithm, for which convergence conditions are derived. The remarkable outlier-robustness of the proposed method is demonstrated by simulations under highly noisy environments.
+  </details>
+
+- [On Grouping Effect of Sparse Stable Outlier-Robust Regression](https://ieeexplore.ieee.org/abstract/document/9943515) <br>
+  <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
+  <span style="font-size:75%">Proc. International Workshop on Machine Learning for Signal Processing (MLSP), pp. 1--6, August 2022</span> <br>
+
+  <details>
+    <summary>Abstract</summary>
+  This paper elucidates the grouping effect of the sparse stable outlier-robust regression (S-SORR) estimator which exploits the minimax concave (MC) penalty and the Tikhonov regularization simultaneously together with the MC loss.
+  The main theoretical result is the following:
+  \begin{equation*}
+    | |\hat{x}_i| - |\hat{x}_j|| \le \mu_1  \sqrt{2m(1 -|\bm{a}_i^{\sf T} \bm{a}_j|)},
+  \end{equation*}
+  where $\mu_1>0$ is the regularization parameter, and $\bm{a}_i$ and $\bm{a}_j$ are the unit vectors with their associated coefficients $\hat{x}_i$ and $\hat{x}_j$. Remarkably, the bound is independent of possible outliers which may be contained in the observation vector $\bm{y}$, whereas the bound for the popular elastic net estimator increases in proportion to the norm of $\bm{y}$ which is largely affected by outliers. Numerical examples show that S-SORR extracts the group structure correctly under huge outliers.
+  </details>
+
+
 - [Robust jointly-sparse signal recovery based on minimax concave loss function](https://ieeexplore.ieee.org/document/9287635) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">Proc. EUSIPCO (European Signal Processing Conference), pp.2070--2074, January 2021</span> <br>
+  <span style="font-size:75%">Proc. European Signal Processing Conference (EUSIPCO), pp. 2070--2074, January 2021</span> <br>
 
   <details>
     <summary>Abstract</summary>
@@ -60,3 +84,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * A Robust Approach to Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">Proc. Technical Report of IEICE, vol. 119, no. 440, IEICE-SIP2019-124, pp. 123--128, Okinawa, Mar. 2020</span> <br>
+
+
+<!-- ## Invited Talks -->

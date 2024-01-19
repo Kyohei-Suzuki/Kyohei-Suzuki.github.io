@@ -37,6 +37,7 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 # Awards
 ---
+* IEEE SPS Japan Student Journal Paper Award (2023)
 * 信号処理若手奨励賞 (Nov. 2023)
 * 信号処理研究会賞 (Aug. 2023)
 * Best Undergraduate Research Award (Mar. 2020)
@@ -45,7 +46,7 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 # Employment
 ---
-* JSPS Research fellow DC1 (Apr. 2022 - present)
+* JSPS Research fellow DC1 (Apr. 2022--present)
 * Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
 * Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
 
