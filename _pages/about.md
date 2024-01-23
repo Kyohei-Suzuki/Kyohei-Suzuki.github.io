@@ -16,7 +16,7 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 # Research Interests
 ---
   - Sparse signal recovery
-  - Learning in the presence of outliers
+  - Robust signal processing
   - Convex optimization
   - Manifold learning
 
