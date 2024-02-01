@@ -19,6 +19,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 
 ## Journal articles
+- [Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression](https://ieeexplore.ieee.org/document/10089559) <br>
+    <span style="font-size:75%"> Masahiro Yukawa, Hiroyuki Kaneko, <b>Kyohei Suzuki</b> and Isao Yamada</span> <br>
+    <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp. 1232--1247, 2023</span> <br>
+  <details>
+    <summary>Abstract</summary>
+
+    We present an efficient mathematical framework to derive promising methods that enjoy “enhanced” desirable properties. The popular minimax concave penalty for sparse modeling subtracts, from the ℓ1 norm, its Moreau envelope, inducing nearly unbiased estimates and thus yielding considerable performance enhancements. To extend it to underdetermined linear systems, we propose the projective minimax concave penalty , which leads to “enhanced” sparseness over the input subspace. We also present a promising regression method which has an “enhanced” robustness and substantial stability by distinguishing outlier and noise explicitly. The proposed framework, named the linearly-involved Moreau-enhanced-over-subspace (LiMES) model , encompasses those two specific examples as well as two others: stable principal component pursuit and robust classification. The LiMES function involved in the model is an “additively nonseparable” weakly convex function, while the ‘inner’ objective function to define the Moreau envelope is “separable”. This mixed nature of separability and nonseparability allows an application of the LiMES model to the underdetermined case with an efficient algorithmic implementation. Two linear/affine operators play key roles in the model: one corresponds to the projection mentioned above and the other takes care of robust regression/classification. A necessary and sufficient condition for convexity of the smooth part of the objective function is studied. Numerical examples show the efficacy of LiMES in applications to sparse modeling and robust regression.
+  </details>
+
 - [Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941) <br>
     <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
     <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp. 372--387, 2023</span> <br>

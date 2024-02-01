@@ -15,7 +15,7 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 # Research Interests
 ---
-  - Sparse signal recovery
+  - Sparse modeling
   - Robust signal processing
   - Convex optimization
   - Manifold learning
@@ -39,7 +39,7 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 ---
 * IEEE SPS Japan Student Journal Paper Award (2023)
 * 信号処理若手奨励賞 (Nov. 2023)
-* 信号処理研究会賞 (Aug. 2023)
+* 信号処理研究会賞 (Mar. 2023)
 * Best Undergraduate Research Award (Mar. 2020)
   * The best undergraduate research award in Dept. Electronics and Electrical Engineering, Keio Univ.
 
