@@ -55,7 +55,6 @@ Ph.D. student in Department of Electronics and Electrical Engineering, Keio Univ
 
 
 
-
 <div class="footer">
 Last update: Jan. 2024
 </div>
