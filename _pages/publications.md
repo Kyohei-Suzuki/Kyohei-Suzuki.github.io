@@ -58,3 +58,4 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
 1. A Robust Approach to Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">Proc. Technical Report of IEICE, vol. 119, no. 440, IEICE-SIP2019-124, pp. 123--128, Okinawa, Mar. 2020</span> <br>
+
