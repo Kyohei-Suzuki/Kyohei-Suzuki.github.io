@@ -19,13 +19,10 @@ redirect_from:
 
 # Education
 ---
-* Sept. 2021 - present: Ph.D. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ.
-  * Supervisor: Prof. Masahiro Yukawa
-* Apr. 2020 - Sept. 2021: M.E. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ.
-  * Supervisor: Prof. Masahiro Yukawa
+* Sept. 2021 - present: Ph.D. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
+* Apr. 2020 - Sept. 2021: M.E. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
   * GPA 4.00/4.00
-* Apr. 2016 - Mar. 2020: B.E. in Electronics and Electrical Engineering, Keio Univ.
-  * Supervisor: Prof. Masahiro Yukawa
+* Apr. 2016 - Mar. 2020: B.E. in Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
 
 
 # Awards
@@ -51,5 +48,5 @@ redirect_from:
 
 
 <div class="footer">
-Last update: Feb. 2024
+Last update: Mar. 2024
 </div>
