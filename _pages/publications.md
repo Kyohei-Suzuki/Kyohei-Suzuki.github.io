@@ -20,7 +20,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
 
 ## Journal articles
 1. [Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression](https://ieeexplore.ieee.org/document/10089559) <br>
-    <span style="font-size:75%"> Masahiro Yukawa, Hiroyuki Kaneko, <b>Kyohei Suzuki</b> and Isao Yamada</span> <br>
+    <span style="font-size:75%"> Masahiro Yukawa, Hiroyuki Kaneko, <b>Kyohei Suzuki</b>, and Isao Yamada</span> <br>
     <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp. 1232--1247, 2023</span> <br>
 
 1. [Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941) <br>
