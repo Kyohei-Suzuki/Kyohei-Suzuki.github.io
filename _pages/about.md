@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 # excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -11,10 +11,11 @@ redirect_from:
 
 # Research Interests
 ---
+  - Theory and methods of signal processing
   - Sparse modeling
   - Robust signal processing
   - Convex optimization
-  - Manifold learning
+  - Manifold learning, dimensionality reduction
 
 
 # Education
