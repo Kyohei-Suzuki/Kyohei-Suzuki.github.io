@@ -27,16 +27,20 @@ redirect_from:
 
 # Awards
 ---
-1. 第39回電気通信普及財団賞（テレコムシステム技術学生賞）(2024)
-1. IEEE SPS Japan Student Journal Paper Award (2023)
-1. 信号処理若手奨励賞 (Nov. 2023)
-1. 信号処理研究会賞 (Mar. 2023)
-1. Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)
+1. 第39回電気通信普及財団賞（テレコムシステム技術学生賞）
+   - 表彰年月日: 2024年3月21日
+2. IEEE SPS Japan Student Journal Paper Award
+   - 表彰年月日: 2024年2月29日
+3. 令和5年度　信号処理若手奨励賞
+   - 表彰年月日: 2024年11月
+4. 令和4年度　信号処理研究会賞
+   - 表彰年月日: 2023年8月7日
+5. Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)
 
 
 # Employment
 ---
-- JSPS Research fellow DC1 (Apr. 2022--present)
+- Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS) (Apr. 2022--present)
 - Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
 - Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
 
