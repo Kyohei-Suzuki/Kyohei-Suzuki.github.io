@@ -11,11 +11,11 @@ redirect_from:
 
 # Research Interests
 ---
-  - Theory and methods of signal processing
-  - Sparse modeling
-  - Robust signal processing
-  - Convex optimization
-  - Manifold learning, dimensionality reduction
+  - theory and methods of signal processing
+  - sparse modeling
+  - robust estimation
+  - convex optimization
+  - manifold learning, dimensionality reduction
 
 
 # Education
@@ -33,7 +33,7 @@ redirect_from:
 2. IEEE SPS Japan Student Journal Paper Award
    - 表彰年月日: 2024年2月29日
 3. 令和5年度　信号処理若手奨励賞
-   - 表彰年月日: 2024年11月
+   - 表彰年月日: 2024年11月（予定）
 4. 令和4年度　信号処理研究会賞
    - 表彰年月日: 2023年8月7日
 5. Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)

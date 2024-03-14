@@ -34,11 +34,11 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
 ## Peer-Reviewed Conference Proceedings
 1. External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proceedings of IEEE ICASSP, accepted</span> <br>
+  <span style="font-size:75%">in Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), accepted</span> <br>
 
 1. [Stable Robust Regression under Sparse Outlier and Gaussian Noise](https://ieeexplore.ieee.org/document/9909755) <br>
   <span style="font-size:75%">Masahiro Yukawa, <b>Kyohei Suzuki</b>, Isao Yamada </span> <br>
-  <span style="font-size:75%">in Proceedings of EUSIPCO (European Signal Processing Conference), pp.2236--2240, August--September 2022</span> <br>
+  <span style="font-size:75%">in Proceedings of European Signal Processing Conference (EUSIPCO), pp.2236--2240, August--September 2022</span> <br>
 
 1. [Sparse Stable Outlier-Robust Regression with Minimax Concave Function](https://ieeexplore.ieee.org/abstract/document/9943378) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
@@ -51,7 +51,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
 
 1. [Robust jointly-sparse signal recovery based on minimax concave loss function](https://ieeexplore.ieee.org/document/9287635) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proceedings of EUSIPCO (European Signal Processing Conference), pp. 2070--2074, January 2021</span> <br>
+  <span style="font-size:75%">in Proceedings of European Signal Processing Conference (EUSIPCO), pp. 2070--2074, January 2021</span> <br>
 
 ## Non-Peer-Reviewed Articles
 1. Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators <br>
