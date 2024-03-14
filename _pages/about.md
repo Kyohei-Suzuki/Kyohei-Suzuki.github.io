@@ -36,7 +36,7 @@ redirect_from:
    - 表彰年月日: 2024年11月（予定）
 4. 令和4年度　信号処理研究会賞
    - 表彰年月日: 2023年8月7日
-5. Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)
+5. 優秀卒業論文賞 (Best Undergraduate Research Award) in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)
 
 
 # Employment
