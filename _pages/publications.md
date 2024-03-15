@@ -27,7 +27,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
     <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
     <span style="font-size:75%">IEEE Trans. Signal Processing, vol.71, pp. 372--387, 2023</span> <br>
 
-1. [Robust recovery of jointly-sparse signals using minimax concave loss function](https://ieeexplore.ieee.org/document/9296314) <br>
+1. [Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function](https://ieeexplore.ieee.org/document/9296314) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">IEEE Trans. Signal Processing, vol.69, pp. 669--681, 2021 (Publication: December 2020)</span> <br>
 
@@ -49,7 +49,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
   <span style="font-size:75%">in Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 6 pages, August 2022</span> <br>
 
 
-1. [Robust jointly-sparse signal recovery based on minimax concave loss function](https://ieeexplore.ieee.org/document/9287635) <br>
+1. [Robust Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function](https://ieeexplore.ieee.org/document/9287635) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proceedings of European Signal Processing Conference (EUSIPCO), pp. 2070--2074, January 2021</span> <br>
 
