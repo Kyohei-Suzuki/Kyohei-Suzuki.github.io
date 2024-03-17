@@ -42,7 +42,6 @@ redirect_from:
 6. 優秀卒業論文賞 慶應義塾大学理工学部電子工学科 (Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ)
    - 表彰年月日：2020年3月
 
-
 # Employment
 ---
 - Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS) (Apr. 2022--present)
