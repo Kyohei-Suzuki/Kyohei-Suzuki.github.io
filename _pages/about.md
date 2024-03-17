@@ -36,7 +36,10 @@ redirect_from:
    - 表彰年月日: 2024年11月（予定）
 4. 令和4年度　信号処理研究会賞
    - 表彰年月日: 2023年8月7日
-5. 優秀卒業論文賞 (Best Undergraduate Research Award) in Dept. Electronics and Electrical Engineering, Keio Univ (Mar. 2020)
+5. 日本学生支援機構  第一種奨学金　特に優れた業績による返還免除 (全額免除)　 (Exemption from JASSO scholarship refund for excellent student)
+   - 認定日：2022年6月
+6. 優秀卒業論文賞 慶應義塾大学理工学部電子工学科 (Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ)
+   - 表彰年月日：2020年3月
 
 
 # Employment
