@@ -26,7 +26,6 @@ redirect_from:
 * Apr. 2016 - Mar. 2020: B.E. in Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
 
 
-
 # Awards
 ---
 1. 令和5年度　信号処理若手奨励賞
