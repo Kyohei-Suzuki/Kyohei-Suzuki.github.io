@@ -15,7 +15,7 @@ gem 'github-pages', group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-gem "jekyll", "~> 4.2.0"  # jekyllのバージョンを明確に指定
+gem "jekyll"
 
 
 # bundle update
