@@ -32,9 +32,9 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
   <span style="font-size:75%">IEEE Trans. Signal Processing, vol. 69, pp. 669--681, 2021 (Publication: December 2020)</span> <br>
 
 ## Peer-Reviewed Conference Proceedings
-1. External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity <br>
+1. [External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity](https://ieeexplore.ieee.org/document/10446368) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), April 2024, Seoul, Korea, to be presented.</span> <br>
+  <span style="font-size:75%">in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Seoul, Korea, pp. 9471-9475, April 2024.</span> <br>
 
 1. [Stable Robust Regression under Sparse Outlier and Gaussian Noise](https://ieeexplore.ieee.org/document/9909755) <br>
   <span style="font-size:75%">Masahiro Yukawa, <b>Kyohei Suzuki</b>, Isao Yamada </span> <br>
