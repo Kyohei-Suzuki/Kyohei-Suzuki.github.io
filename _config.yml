@@ -251,6 +251,10 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+sass:
+  load_paths:
+    - vendor/bundle/ruby/2.6.0/gems/susy-2.2.14/sass
+
 
 # Outputting
 permalink: /:categories/:title/
