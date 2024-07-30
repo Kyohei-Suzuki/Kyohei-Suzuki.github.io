@@ -44,17 +44,20 @@ redirect_from:
 
 # Employment
 ---
-- Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS) (Apr. 2022--present)
-- Research Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022)
-- Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio (Nov. 2020 -- Feb. 2021)
+- Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS) 
+  - Apr. 2022--present
+- Research Assistant at Dept. Electronics and Electrical Engineering, Keio 
+  - Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022
+- Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio 
+  - Nov. 2020 -- Feb. 2021
 
 # Talks
 ---
-1. 鈴木京平, "ガウス性雑音環境下でのスパース安定頑健信号復元法", 第22回情報科学技術フォーラム（FIT2023）, 堺, 2023年9月, 招待講演.
+1. 鈴木京平, "ガウス性雑音環境下でのスパース安定頑健信号復元法", 第22回情報科学技術フォーラム（FIT2023）, 大阪府堺市, 2023年9月, 招待講演.
 
 
 
 
 <div class="footer">
-Last update: Mar. 2024
+Last update: Jul. 2024
 </div>
