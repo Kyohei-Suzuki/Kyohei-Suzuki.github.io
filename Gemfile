@@ -29,3 +29,5 @@ end
 gem "webrick", "~> 1.8"
 
 gem 'susy'
+
+gem 'eventmachine', '~> 1.2'

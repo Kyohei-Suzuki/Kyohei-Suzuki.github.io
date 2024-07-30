@@ -258,6 +258,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  eventmachine (~> 1.2)
   github-pages
   hawkins
   jekyll-feed
