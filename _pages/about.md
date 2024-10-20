@@ -11,16 +11,16 @@ redirect_from:
 
 # Research Interests
 ---
-  - theory and methods of signal processing
-  - sparse modeling
-  - robust estimation
-  - convex optimization
-  - manifold learning, dimensionality reduction
+  - Theory and methods of signal processing
+  - Sparse modeling
+  - Robust estimation
+  - Convex optimization
+  - Manifold learning and dimensionality reduction
 
 
 # Education
 ---
-* Sept. 2021 - present: Ph.D. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
+* Sept. 2021 - Sept. 2024: Ph.D. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
 * Apr. 2020 - Sept. 2021: M.E. in Integrated Design Engineering, Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
   * GPA 4.00/4.00
 * Apr. 2016 - Mar. 2020: B.E. in Electronics and Electrical Engineering, Keio Univ. (Supervisor: Prof. Masahiro Yukawa)
@@ -44,11 +44,13 @@ redirect_from:
 
 # Employment
 ---
-- Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS) 
-  - Apr. 2022--present
-- Research Assistant at Dept. Electronics and Electrical Engineering, Keio 
+- Research Fellow (PD) of the Japan Society for the Promotion of Science (JSPS)
+  - Oct. 2024 -- present
+- Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS)
+  - Apr. 2022 -- Sept. 2024_
+- Research Assistant at Dept. Electronics and Electrical Engineering, Keio
   - Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022
-- Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio 
+- Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio
   - Nov. 2020 -- Feb. 2021
 
 # Talks
@@ -56,8 +58,13 @@ redirect_from:
 1. 鈴木京平, "ガウス性雑音環境下でのスパース安定頑健信号復元法", 第22回情報科学技術フォーラム（FIT2023）, 大阪府堺市, 2023年9月, 招待講演.
 
 
-
+# Skills
+---
+1. ドイツ語技能検定試験2級　合格
+2. 基本情報技術者試験　合格
+3. 第一級陸上特殊無線技術士・第三級海上特殊無線技術士
+4. JSBiバイオインフォマティクス技術者
 
 <div class="footer">
-Last update: Jul. 2024
+Last update: Oct. 2024
 </div>
