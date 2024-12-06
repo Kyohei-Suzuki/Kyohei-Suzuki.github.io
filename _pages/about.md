@@ -44,7 +44,7 @@ redirect_from:
 
 # Work Experience
 ---
-- Assistant Professor, Dept. of Information and Communications Engineering, Tokyo Institute of Technology
+- Assistant Professor, Department of Information and Communications Engineering, Institute of Science Tokyo
   - Dec. 2024 -- present
 - Research Fellow (PD) of the Japan Society for the Promotion of Science (JSPS)
   - Oct. 2024 -- Nov. 2024
@@ -68,5 +68,5 @@ redirect_from:
 4. JSBiバイオインフォマティクス技術者
 
 <div class="footer">
-Last update: Oct. 2024
+Last update: Dec. 2024
 </div>
