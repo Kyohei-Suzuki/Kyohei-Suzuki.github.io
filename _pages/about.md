@@ -11,7 +11,7 @@ redirect_from:
 
 # Research Interests
 ---
-  - Theory and methods of signal processing
+  - Signal processing, machine learning
   - Sparse modeling
   - Robust estimation
   - Convex optimization
@@ -42,10 +42,12 @@ redirect_from:
    - 表彰年月日：2020年3月
 
 
-# Employment
+# Work Experience
 ---
+- Assistant Professor, Dept. of Information and Communications Engineering, Tokyo Institute of Technology
+  - Dec. 2024 -- present
 - Research Fellow (PD) of the Japan Society for the Promotion of Science (JSPS)
-  - Oct. 2024 -- present
+  - Oct. 2024 -- Nov. 2024
 - Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS)
   - Apr. 2022 -- Sept. 2024_
 - Research Assistant at Dept. Electronics and Electrical Engineering, Keio
