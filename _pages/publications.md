@@ -54,6 +54,9 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
   <span style="font-size:75%">in Proc. European Signal Processing Conference (EUSIPCO), pp. 2070--2074, January 2021</span> <br>
 
 ## Non-Peer-Reviewed Articles
+1. Bias Reduction for Feature Grouping Based on a Limit of Moreau-Enhanced OSCAR Regularizer <br>
+  <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
+  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024.</span> <br>
 1. Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Kyoto, Japan, Nov. 2023.</span> <br>

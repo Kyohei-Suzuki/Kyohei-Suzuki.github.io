@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Kyohei Suzuki"
-  avatar           : "profile.png"
-  bio              : "Ph.D Student at Keio University"
+  avatar           : "IMG_7286_cropped.jpeg"
+  bio              : "Assistant Professor at Institute of Science Tokyo"
   location         : "Kanagawa, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ziuCr6QAAAAJ&hl=ja&oi=sra"
-  email            : "suzuki@ykw.elec.keio.ac.jp"
+  email            : "suzuki.k.439f@m.isct.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
