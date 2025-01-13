@@ -58,7 +58,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024.</span> <br>
 1. Sparse Signal Recovery Based on Continuous Relaxation of Reversely Ordered Weighted \ell_1 Shrinkage Operator  <br>
-  <span style="font-size:75%">Daiki Okuda, <b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
+  <span style="font-size:75%">Taiki Okuda, <b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024.</span> <br>
 1. Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
