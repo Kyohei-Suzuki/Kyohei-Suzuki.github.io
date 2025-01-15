@@ -76,6 +76,6 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 
 
 ## Doctoral Dissertation
-[A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en)
+[A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en) <br>
 <span style="font-size:75%"><b>Kyohei Suzuki</b></span> <br>
 <span style="font-size:75%">Keio University, Sept. 2024</span> <br>
