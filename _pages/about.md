@@ -63,6 +63,6 @@ redirect_from:
 # Skills
 ---
 1. JSBiバイオインフォマティクス技術者 (JSBi Certified Bioinfomatics Engineer)
-2. 第一級陸上特殊無線技術士・第三級海上特殊無線技術士 (On-The-Ground Ⅰ-Category Special Radio Operator, Maritime Ⅲ-Category Special Radio Operator)
+2. 第一級陸上特殊無線技術士・第三級海上特殊無線技術士 (On-The-Ground I-Category Special Radio Operator, Maritime III-Category Special Radio Operator)
 3. ドイツ語技能検定試験2級　合格 (German Diploma in Japan Grade 2)
 4. 基本情報技術者試験　合格 (Fundamental Information Technology Engineer Examination)
