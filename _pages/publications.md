@@ -19,7 +19,7 @@ You can also find the articles on [my Google Scholar profile](https://scholar.go
 See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=d04be36427861fe1fd3ad95415b5063b).
 
 
-## Journal articles
+## Journal Articles
 1. [Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression](https://ieeexplore.ieee.org/document/10089559) <br>
     <span style="font-size:75%"> Masahiro Yukawa, Hiroyuki Kaneko, <b>Kyohei Suzuki</b>, and Isao Yamada</span> <br>
     <span style="font-size:75%">IEEE Trans. Signal Processing, vol. 71, pp. 1232--1247, 2023</span> <br>
