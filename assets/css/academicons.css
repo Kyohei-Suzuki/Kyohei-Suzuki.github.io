@@ -190,6 +190,9 @@
 .ai-researchgate-square:before {
   content: "\e855";
 }
+.ai-researchmap:before {
+  content: "\e862";
+}
 .ai-scirate:before {
   content: "\e856";
 }
