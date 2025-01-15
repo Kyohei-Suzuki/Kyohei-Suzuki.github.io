@@ -35,7 +35,7 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 ## Peer-Reviewed Conference Proceedings
 1. [External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity](https://ieeexplore.ieee.org/document/10446368) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Seoul, Korea, pp. 9471-9475, April 2024.</span> <br>
+  <span style="font-size:75%">in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Seoul, Korea, pp. 9471-9475, April 2024</span> <br>
 
 1. [Stable Robust Regression under Sparse Outlier and Gaussian Noise](https://ieeexplore.ieee.org/document/9909755) <br>
   <span style="font-size:75%">Masahiro Yukawa, <b>Kyohei Suzuki</b>, Isao Yamada </span> <br>
@@ -57,13 +57,13 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 ## Non-Peer-Reviewed Articles
 1. Bias Reduction for Feature Grouping Based on a Limit of Moreau-Enhanced OSCAR Regularizer <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024.</span> <br>
+  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024</span> <br>
 1. Sparse Signal Recovery Based on Continuous Relaxation of Reversely Ordered Weighted \ell_1 Shrinkage Operator  <br>
   <span style="font-size:75%">Taiki Okuda, <b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024.</span> <br>
+  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Sapporo, Japan, Dec. 2024</span> <br>
 1. Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
-  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Kyoto, Japan, Nov. 2023.</span> <br>
+  <span style="font-size:75%">in Proc. IEICE Signal Processing Symposium, 6 pages, Kyoto, Japan, Nov. 2023</span> <br>
 1. Multiscale Manifold Clustering and Embedding with Multiple Kernels <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. Technical Report of IEICE, vol. 122, no. 388, SIP2022-167, pp. 276--281, Okinawa, Japan, Mar. 2023</span> <br>
@@ -77,3 +77,5 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 
 ## Doctoral Dissertation
 [A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en)
+<span style="font-size:75%"><b>Kyohei Suzuki</b></span> <br>
+<span style="font-size:75%">Keio University, Sept. 2024</span> <br>
