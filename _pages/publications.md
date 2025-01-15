@@ -73,3 +73,7 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 1. A Robust Approach to Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. Technical Report of IEICE, vol. 119, no. 440, SIP2019-124, pp. 123--128, Okinawa, Japan (Conference cancelled), Mar. 2020</span> <br>
+
+
+## Doctoral Dissertation
+[A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond](https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en)
