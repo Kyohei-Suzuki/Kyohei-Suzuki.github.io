@@ -66,7 +66,3 @@ redirect_from:
 2. 第一級陸上特殊無線技術士・第三級海上特殊無線技術士
 3. ドイツ語技能検定試験2級　合格
 4. 基本情報技術者試験　合格
-
-<div class="footer">
-Last update: Dec. 2024
-</div>
