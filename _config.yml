@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Kyohei Suzuki"
   avatar           : "IMG_7286_cropped.jpeg"
-  bio              : "Assistant Professor at Institute of Science Tokyo"
+  bio              : "Assistant Professor at Institute of Science Tokyo, <a style='color: black;' href='https://educ.titech.ac.jp/ict/eng/'>Department of Information and Communications Engineering</a> and the <a style='color: black;' href='https://www.titech.ac.jp/english/0/education/graduate-majors/hcsbe'>Human Centered Science and Biomedical Engineering Major</a>"
   location         : "Kanagawa, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kyohei-suzuki-472492320/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7189-8645"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
