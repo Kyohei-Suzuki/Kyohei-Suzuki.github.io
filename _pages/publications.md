@@ -33,6 +33,10 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
   <span style="font-size:75%">IEEE Trans. Signal Processing, vol. 69, pp. 669--681, 2021 (Publication: December 2020)</span> <br>
 
 ## Peer-Reviewed Conference Proceedings
+1. A discrete measure for debiased feature grouping: A limit of Moreau-enhanced OSCAR regularizer and its proximity operator <br>
+  <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
+  <span style="font-size:75%">in Proc. European Signal Processing Conference (EUSIPCO), 2025, to appear.</span> <br>
+
 1. [External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity](https://ieeexplore.ieee.org/document/10446368) <br>
   <span style="font-size:75%"><b>Kyohei Suzuki</b> and Masahiro Yukawa</span> <br>
   <span style="font-size:75%">in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Seoul, Korea, pp. 9471-9475, April 2024</span> <br>
