@@ -23,8 +23,8 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 1. <b>K. Suzuki</b> and K. Slavakis, “[Nonconvex Regularization for Feature Selection in Reinforcement Learning](https://arxiv.org/abs/2509.15652),” arXiv:2509.15652, 2025.
 
 ## Journal Articles
-1. <b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators --- Part II: Generalization and Properties,” *IEEE Trans. Signal Process.*, vol. 73, pp. , 2023, accepted for publication.
-1. <b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators --- Part I: Debiased Feature Grouping,” *IEEE Trans. Signal Process.*, vol. 73, pp. , 2023, accepted for publication.
+1. <b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators---Part II: Generalization and Properties,” *IEEE Trans. Signal Process.*, vol. 73, pp. , 2023, accepted for publication.
+1. <b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators---Part I: Debiased Feature Grouping,” *IEEE Trans. Signal Process.*, vol. 73, pp. , 2023, accepted for publication.
 2. M. Yukawa, H. Kaneko, <b>K. Suzuki</b>, and I. Yamada, “[Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression](https://ieeexplore.ieee.org/document/10089559),” *IEEE Trans. Signal Process.*, vol. 71, pp. 1232–1247, 2023.
 3. <b>K. Suzuki</b> and M. Yukawa, “[Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise](https://ieeexplore.ieee.org/document/10041941),” *IEEE Trans. Signal Process.*, vol. 71, pp. 372–387, 2023.
 4. <b>K. Suzuki</b> and M. Yukawa, “[Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function](https://ieeexplore.ieee.org/document/9296314),” *IEEE Trans. Signal Process.*, vol. 69, pp. 669–681, 2021 (publication: Dec. 2020).
