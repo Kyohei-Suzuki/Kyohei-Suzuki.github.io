@@ -30,7 +30,7 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 5. <b>K. Suzuki</b> and M. Yukawa, “[Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function](https://ieeexplore.ieee.org/document/9296314),” *IEEE Trans. Signal Process.*, vol. 69, pp. 669–681, 2021 (publication: Dec. 2020).
 
 ## Peer-Reviewed Conference Proceedings
-1. <b>K. Suzuki</b> and M. Yukawa, “A discrete measure for debiased feature grouping: A limit of Moreau-enhanced OSCAR regularizer and its proximity operator,” in *Proc. Eur. Signal Process. Conf. (EUSIPCO)*, pp.2467–2471, Palermo, Italy, 2025.
+1. <b>K. Suzuki</b> and M. Yukawa, “[A discrete measure for debiased feature grouping: A limit of Moreau-enhanced OSCAR regularizer and its proximity operator](https://eusipco2025.org/wp-content/uploads/pdfs/0002467.pdf),” in *Proc. Eur. Signal Process. Conf. (EUSIPCO)*, pp.2467–2471, Palermo, Italy, 2025.
 2. <b>K. Suzuki</b> and M. Yukawa, “[External Division of Two Proximity Operators: An Application to Signal Recovery with Structured Sparsity](https://ieeexplore.ieee.org/document/10446368),” in *Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, Seoul, Korea, pp. 9471–9475, Apr. 2024.
 3. M. Yukawa, <b>K. Suzuki</b>, and I. Yamada, “[Stable Robust Regression under Sparse Outlier and Gaussian Noise](https://ieeexplore.ieee.org/document/9909755),” in *Proc. Eur. Signal Process. Conf. (EUSIPCO)*, pp. 2236–2240, Aug.–Sep. 2022.
 4. <b>K. Suzuki</b> and M. Yukawa, “[Sparse Stable Outlier-Robust Regression with Minimax Concave Function](https://ieeexplore.ieee.org/abstract/document/9943378),” in *Proc. IEEE Int. Workshop Mach. Learn. Signal Process. (MLSP)*, 6 pages, Aug. 2022.
