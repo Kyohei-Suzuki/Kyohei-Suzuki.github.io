@@ -38,6 +38,8 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 6. <b>K. Suzuki</b> and M. Yukawa, “[Robust Jointly-Sparse Signal Recovery Based on Minimax Concave Loss Function](https://ieeexplore.ieee.org/document/9287635),” in *Proc. Eur. Signal Process. Conf. (EUSIPCO)*, pp. 2070–2074, Jan. 2021.
 
 ## Non-Peer-Reviewed Articles
+1. <b>K. Suzuki</b> and K. Slavakis, “Feature Selection in Reinforcement Learning via Projected Minimax Concave Penalty,” in *Proc. IEICE Signal Processing Symposium*, Ibaraki, Japan, 6 pages, Nov. 2025.
+1. <b>K. Suzuki</b> and M. Yukawa, “On the Proximity Operator of the Lower-semicontinuous 1-weakly-convex Envelope of a Marginal Function,” in *Proc. IEICE Signal Processing Symposium*, Ibaraki, Japan, 6 pages, Nov. 2025.
 1. <b>K. Suzuki</b> and M. Yukawa, “Bias Reduction for Feature Grouping Based on a Limit of Moreau-Enhanced OSCAR Regularizer,” in *Proc. IEICE Signal Processing Symposium*, Sapporo, Japan, 6 pages, Dec. 2024.
 2. T. Okuda, <b>K. Suzuki</b>, and M. Yukawa, “Sparse Signal Recovery Based on Continuous Relaxation of Reversely Ordered Weighted ℓ₁ Shrinkage Operator,” in *Proc. IEICE Signal Processing Symposium*, Sapporo, Japan, 6 pages, Dec. 2024.
 3. <b>K. Suzuki</b> and M. Yukawa, “Debiased Estimation of Signals with Structured Sparsity Based on External Division of Two Proximity Operators,” in *Proc. IEICE Signal Processing Symposium*, Kyoto, Japan, 6 pages, Nov. 2023.
