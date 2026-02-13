@@ -11,7 +11,7 @@ redirect_from:
   <strong>English</strong> / <a href="/cv-jp/">Japanese</a>
 </div>
 
-Kyohei Suzuki (Member, IEEE) received the B.E., M.E., and Ph.D.~degrees in electronics and electrical engineering from Keio University, Yokohama, Japan, in 2020, 2022, and 2024, respectively. Since December 2024, he has been an Assistant Professor at the Institute of Science Tokyo with the Department of Information and Communications Engineering, Yokohama, Japan. His research interests include signal processing, sparse modeling, and mathematical optimization.
+Kyohei Suzuki (Member, IEEE) received the B.E., M.E., and Ph.D. degrees in electronics and electrical engineering from Keio University, Yokohama, Japan, in 2020, 2022, and 2024, respectively. Since December 2024, he has been an Assistant Professor at the Institute of Science Tokyo with the Department of Information and Communications Engineering, Yokohama, Japan. His research interests include signal processing, sparse modeling, and mathematical optimization.
 
 ## Education
 ---
