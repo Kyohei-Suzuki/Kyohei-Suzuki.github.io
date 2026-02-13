@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kyohei Suzuki"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kyohei Suzuki, Ph.D."
 description              : &description "Assistant Professor"
