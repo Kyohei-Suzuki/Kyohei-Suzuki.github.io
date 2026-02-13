@@ -21,3 +21,4 @@ author_profile: true
 ---
 * E-mail: suzuki.k.439f [at] m.isct.ac.jp
 * 住所: [すずかけ台キャンパス](https://www.isct.ac.jp/ja/001/access#anchor02), [G2棟](https://www.isct.ac.jp/ja/001/about/campuses-and-offices/suzukakedai) 8階 805号室
+* 宛先: 〒226-8501 神奈川県横浜市緑区長津田町4259-G2-4
