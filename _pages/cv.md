@@ -38,10 +38,6 @@ Kyohei Suzuki (Member, IEEE) received the B.E., M.E., and Ph.D.~degrees in elect
   - Oct. 2024 -- Nov. 2024
 - Research Fellow (DC1) of the Japan Society for the Promotion of Science (JSPS)
   - Apr. 2022 -- Sept. 2024
-<!-- - Research Assistant at Dept. Electronics and Electrical Engineering, Keio
-  - Nov. 2019 -- Feb. 2020, Nov. 2020 -- Mar. 2022
-- Teaching Assistant at Dept. Electronics and Electrical Engineering, Keio
-  - Nov. 2020 -- Feb. 2021 -->
 
 ## Teaching Experience
 ---
