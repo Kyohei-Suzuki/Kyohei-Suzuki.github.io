@@ -55,6 +55,7 @@
 
 img:not(.image-modal-content) {
   cursor: pointer;
+  pointer-events: auto;
 }
 </style>
 
@@ -70,11 +71,22 @@ img:not(.image-modal-content) {
     var span = document.getElementsByClassName("image-modal-close")[0];
 
     document.addEventListener('click', function(e) {
-      if (e.target.tagName === 'IMG' && !e.target.classList.contains('image-modal-content')) {
-        if (e.target.closest('a')) return;
+      var target = e.target;
+      var img = null;
 
+      if (target.tagName.toUpperCase() === 'IMG') {
+        img = target;
+      } else if (target.classList.contains('author__avatar') && target.tagName.toUpperCase() === 'DIV') {
+        img = target.querySelector('img');
+      }
+
+      if (img && !img.classList.contains('image-modal-content')) {
+        if (img.closest('a')) return;
+
+        e.preventDefault();
+        e.stopPropagation();
         modal.style.display = "block";
-        modalImg.src = e.target.src;
+        modalImg.src = img.src;
       }
     }, true);
 
