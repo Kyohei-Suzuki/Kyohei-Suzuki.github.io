@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "略歴"
 permalink: /cv-jp/
 author_profile: true
 ---
