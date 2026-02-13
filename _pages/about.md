@@ -14,9 +14,9 @@ redirect_from:
 
 ## Research Interests
 ---
-  - <b>Signal processing</b>: Sparse signal estimation, Robust regression, Dimensionality reduction
+  - <b>Signal processing</b>: Sparse signal estimation, Robust regression
   - <b>Optimization theory</b>: Convex Optimization, Proximal splitting algorithm
-  - <b>Machine Learning</b>: Feature selection, Reinforcement learning
+  - <b>Machine Learning</b>: Reinforcement learning, Dimensionality reduction
 
 
 <br><br>
