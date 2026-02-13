@@ -2,3 +2,84 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<!-- Image Zoom Modal -->
+<style>
+/* The Modal (background) */
+.image-modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.9);
+}
+
+/* Modal Content (image) */
+.image-modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* The Close Button */
+.image-modal-close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.image-modal-close:hover,
+.image-modal-close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .image-modal-content {
+    width: 100%;
+  }
+}
+
+img.clickable-image {
+    cursor: pointer;
+}
+</style>
+
+<div id="myImageModal" class="image-modal">
+  <span class="image-modal-close">&times;</span>
+  <img class="image-modal-content" id="img01">
+</div>
+
+<script>
+  var modal = document.getElementById("myImageModal");
+  var modalImg = document.getElementById("img01");
+  var span = document.getElementsByClassName("image-modal-close")[0];
+
+  // ページ内の画像にクリックイベントを追加（プロフィール画像などは除く）
+  var images = document.querySelectorAll('img');
+  images.forEach(function(img) {
+      if (!img.classList.contains('author__avatar') && !img.classList.contains('image-modal-content')) {
+          img.classList.add('clickable-image');
+          img.onclick = function(){
+              modal.style.display = "block";
+              modalImg.src = this.src;
+          }
+      }
+  });
+
+  span.onclick = function() { modal.style.display = "none"; }
+  modal.onclick = function(e) { if(e.target === modal) modal.style.display = "none"; }
+</script>
