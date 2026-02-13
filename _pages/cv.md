@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+<div style="text-align: right;">
+  <a href="/cv-jp/">Japanese</a> / <strong>English</strong>
+</div>
+
+Kyohei Suzuki (Member, IEEE) received the B.E., M.E., and Ph.D.~degrees in electronics and electrical engineering from Keio University, Yokohama, Japan, in 2020, 2022, and 2024, respectively. Since December 2024, he has been an Assistant Professor at the Institute of Science Tokyo with the Department of Information and Communications Engineering, Yokohama, Japan. His research interests include signal processing, sparse modeling, and mathematical optimization.
 
 # Education
 ---
@@ -25,9 +30,9 @@ redirect_from:
    - 表彰年月日: 2024年2月29日
 4. 令和4年度　信号処理研究会賞
    - 表彰年月日: 2023年8月7日
-5. 日本学生支援機構  第一種奨学金　特に優れた業績による返還免除 (全額免除) (Exemption from JASSO scholarship refund for excellent student)
+5. Exemption from JASSO scholarship refund for excellent student
    - 認定日: 2022年6月
-6. 優秀卒業論文賞 慶應義塾大学理工学部電子工学科 (Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ.)
+6. Best Undergraduate Research Award in Dept. Electronics and Electrical Engineering, Keio Univ.
    - 表彰年月日: 2020年3月
 
 
@@ -50,7 +55,7 @@ redirect_from:
 
 # Skills
 ---
-1. JSBiバイオインフォマティクス技術者 (JSBi Certified Bioinfomatics Engineer)
-2. 第一級陸上特殊無線技術士・第三級海上特殊無線技術士 (On-The-Ground I-Category Special Radio Operator, Maritime III-Category Special Radio Operator)
-3. ドイツ語技能検定試験2級 (German Diploma in Japan Grade 2)
-4. 基本情報技術者試験 (Fundamental Information Technology Engineer Examination)
+1. JSBi Certified Bioinfomatics Engineer
+2. On-The-Ground I-Category Special Radio Operator, Maritime III-Category Special Radio Operator
+3. German Diploma in Japan Grade 2
+4. Fundamental Information Technology Engineer Examination
