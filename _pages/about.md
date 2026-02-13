@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: right;">
-  <a href="/about-jp/">Japanese</a> / <strong>English</strong>
+  <strong>English</strong> / <a href="/about-jp/">Japanese</a>
 </div>
 
 ## Research Interests

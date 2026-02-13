@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <div style="text-align: right;">
-  <strong>Japanese</strong> / <a href="/">English</a>
+  <a href="/">English</a> / <strong>Japanese</strong>
 </div>
 
 ## 研究分野

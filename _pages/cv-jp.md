@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: right;">
-  <strong>Japanese</strong> / <a href="/cv/">English</a>
+  <a href="/cv/">English</a> / <strong>Japanese</strong>
 </div>
 
 ## 学歴
