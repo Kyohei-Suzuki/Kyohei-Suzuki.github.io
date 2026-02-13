@@ -20,6 +20,8 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 
 
 ## Preprint
+1. K. Haishima, <b>K. Suzuki</b>, and K. Slavakis, “[
+External Division of Two Bregman Proximity Operators for Poisson Inverse Problems](https://arxiv.org/abs/2602.11482),” 2602.11482, 2026.
 1. <b>K. Suzuki</b> and K. Slavakis, “[Nonconvex Regularization for Feature Selection in Reinforcement Learning](https://arxiv.org/abs/2509.15652),” arXiv:2509.15652, 2025.
 
 ## Journal Articles
