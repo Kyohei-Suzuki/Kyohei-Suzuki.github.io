@@ -15,8 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-You can also find the articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ziuCr6QAAAAJ&hl=en&oi=ao).
-See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=d04be36427861fe1fd3ad95415b5063b).
+Link to [Google Scholar Citations](https://scholar.google.com/citations?user=ziuCr6QAAAAJ&hl=en&oi=ao)
+
+Link to [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_researcher_content_number=d04be36427861fe1fd3ad95415b5063b)
+<br><br>
 
 
 ## Preprint
