@@ -27,11 +27,11 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 
 ## Journal Articles
 <ol reversed start="5">
-<li><b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators—Part II: Generalization and Properties,” <em>IEEE Trans. Signal Process.</em>, vol. 74, pp. 167-182, 2026. <a href="https://ieeexplore.ieee.org/document/11203253"></a></li>
-<li><b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators—Part I: Debiased Feature Grouping,” <em>IEEE Trans. Signal Process.</em>, vol. 74, pp. 150-166, 2026. <a href="https://ieeexplore.ieee.org/document/11203249"></a></li>
-<li>M. Yukawa, H. Kaneko, <b>K. Suzuki</b>, and I. Yamada, “Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression,” <em>IEEE Trans. Signal Process.</em>, vol. 71, pp. 1232–1247, 2023. <a href="https://ieeexplore.ieee.org/document/10089559"></a></li>
-<li><b>K. Suzuki</b> and M. Yukawa, “Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise,” <em>IEEE Trans. Signal Process.</em>, vol. 71, pp. 372–387, 2023. <a href="https://ieeexplore.ieee.org/document/10041941"></a></li>
-<li><b>K. Suzuki</b> and M. Yukawa, “Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function,” <em>IEEE Trans. Signal Process.</em>, vol. 69, pp. 669–681, 2021 (publication: Dec. 2020). <a href="https://ieeexplore.ieee.org/document/9296314"></a></li>
+<li><b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators—Part II: Generalization and Properties,” <em>IEEE Trans. Signal Process.</em>, vol. 74, pp. 167-182, 2026. <a href="https://ieeexplore.ieee.org/document/11203253">official access</a></li>
+<li><b>K. Suzuki</b> and M. Yukawa, “External Division of Two Proximity Operators—Part I: Debiased Feature Grouping,” <em>IEEE Trans. Signal Process.</em>, vol. 74, pp. 150-166, 2026. <a href="https://ieeexplore.ieee.org/document/11203249">official access</a></li>
+<li>M. Yukawa, H. Kaneko, <b>K. Suzuki</b>, and I. Yamada, “Linearly-Involved Moreau-Enhanced-Over-Subspace Model: Debiased Sparse Modeling and Stable Outlier-Robust Regression,” <em>IEEE Trans. Signal Process.</em>, vol. 71, pp. 1232–1247, 2023. <a href="https://ieeexplore.ieee.org/document/10089559">official access</a></li>
+<li><b>K. Suzuki</b> and M. Yukawa, “Sparse Stable Outlier-Robust Signal Recovery Under Gaussian Noise,” <em>IEEE Trans. Signal Process.</em>, vol. 71, pp. 372–387, 2023. <a href="https://ieeexplore.ieee.org/document/10041941">official access</a></li>
+<li><b>K. Suzuki</b> and M. Yukawa, “Robust Recovery of Jointly-Sparse Signals Using Minimax Concave Loss Function,” <em>IEEE Trans. Signal Process.</em>, vol. 69, pp. 669–681, 2021 (publication: Dec. 2020). <a href="https://ieeexplore.ieee.org/document/9296314">official access</a></li>
 </ol>
 
 ## Peer-Reviewed Conference Proceedings
