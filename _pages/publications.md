@@ -63,7 +63,8 @@ See also [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_rese
 1. 鈴木京平, "ガウス性雑音環境下でのスパース安定頑健信号復元法", 第22回情報科学技術フォーラム（FIT2023）, 大阪府堺市, 2023年9月, 招待講演.
 
 ## Doctoral Dissertation
-1. <b>K. Suzuki</b>, “<a href="https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en">A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond</a>,” Doctoral dissertation, Keio University, Sept. 2024.
+1. <b>K. Suzuki</b>, “A study of robust debiasing methods for sparse modeling: Moreau enhancement and beyond,” Doctoral dissertation, Keio University, Sept. 2024. <a href="https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=KO50002002-20246283-0003&ml_lang=en">official access</a>
+
 
 
 
