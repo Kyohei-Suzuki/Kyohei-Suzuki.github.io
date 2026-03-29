@@ -21,7 +21,7 @@ Link to [T2R2](https://t2r2.star.titech.ac.jp/cgi-bin/researcherinfo.cgi?q_resea
 <br><br>
 
 
-## Preprint
+## Preprint/Submitted
 <ol reversed start="5">
   <li> <b>K. Suzuki</b>, Y. Shoji, K. Kume, R. L. G. Cavalcante, and M. Yukawa, submitted for publication.</li>
   <li> T. Okuda, <b>K. Suzuki</b>, and M. Yukawa, submitted for publication.</li>
